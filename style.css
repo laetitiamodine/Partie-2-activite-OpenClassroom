@@ -1,0 +1,35 @@
+/*
+Theme Name: Laëtitia Modine
+Theme URI: www.laetitiamodine.com
+Author: Modine Laëtitia
+Description: Web site responsive one-page Laëtitia Modine
+Version: 1.0
+Tags: one-page, single page, full screen, mediaquery, mediaqueries, responsive, LaëtitiaModine, html5, css3, jquery, scrollspy, animate css, font awesome, codyhouse vertical fixe navigation.
+*/
+
+/* -------------------------------- 
+
+ Style
+
+-------------------------------- */
+
+body {
+	background-color: #b1ddea;
+	color: #3e3947;
+	font-family: 'Lato', sans-serif;
+}		
+
+a {
+    color: #3e3947;
+    cursor: pointer;
+    text-decoration: none;
+     /* rendre le texte non sélectionnable */
+    -moz-user-select: -moz-none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -o-user-select: none;
+}
+li{
+	list-style: none;
+}
+
